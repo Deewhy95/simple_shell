@@ -2,7 +2,7 @@
 Creating our version of a command line interpreter: shell.
 
 - This repository includes our version of the Shell: simple Unix command interpreter, replicates the basic functionalities of the simple shell (sh), here we will apply the knowledge that we have acquired during the learning of the programming language C, works with the system call of the Kernel.
-- This project is requested by Holberton School.
+- This project is requested by ALX School.
 
 ---------------
 
